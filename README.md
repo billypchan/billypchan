@@ -2,11 +2,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-<!--
-**billypchan/billypchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Wire
 - 🌱 I’m currently learning Bazel
 - 👯 I’m looking to collaborate on freedom
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: billypchan@gmail.com
 - 😄 Pronouns: no pronoun plx
 - ⚡ Fun fact: facts are not fun.
--->
