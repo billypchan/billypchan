@@ -10,11 +10,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Full-year calendar
+      - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_followup: yes
+          plugin_followup_indepth: yes
