@@ -10,11 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Indepth analysis
+      - name: Opened on user's repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.indepth.svg
+          filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
-          plugin_followup_indepth: yes
