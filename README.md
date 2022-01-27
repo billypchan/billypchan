@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 - 🔭 I’m currently working on Wire
 - 🌱 I’m currently learning Bazel
